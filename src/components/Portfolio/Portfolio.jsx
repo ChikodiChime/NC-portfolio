@@ -230,11 +230,11 @@ const Portfolio = () => {
       </div>
 
       {/* Call to Action */}
-      <div className="text-center mt-16">
+      {/* <div className="text-center mt-16">
         <button className="bg-gradient-to-r from-green-500 to-blue-600 hover:from-green-600 hover:to-blue-700 text-white font-bold py-3 px-8 rounded-full transition-all duration-300 transform hover:scale-105 shadow-lg">
           View All Projects
         </button>
-      </div>
+      </div> */}
     </div>
   );
 };
