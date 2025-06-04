@@ -112,7 +112,7 @@ const Hero = () => {
                 <img
                   src="/boy1.png"
                   alt="Developer illustration"
-                  className=" max-w-3xl h-auto object-contain transform group-hover:scale-105 transition-transform duration-500"
+                  className=" max-w-xl h-auto object-contain transform group-hover:scale-105 transition-transform duration-500"
                 />
                 
                 {/* Floating elements around image */}
